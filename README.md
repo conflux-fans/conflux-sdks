@@ -6,11 +6,17 @@ SDKs that can be used to interact with Conflux node(client).
 
 ### [js-conflux-sdk](https://github.com/conflux-chain/js-conflux-sdk)
 
+Recommend
+
 ### [go-conflux-sdk](https://github.com/conflux-chain/go-conflux-sdk)
+
+Recommend
 
 ### [java-conflux-sdk](https://github.com/conflux-chain/java-conflux-sdk)
 
 ### [python-conflux-sdk](https://github.com/conflux-chain/python-conflux-sdk)
+
+Still in eary stage
 
 ## Community SDKs
 
