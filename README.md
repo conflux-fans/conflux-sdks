@@ -2,6 +2,8 @@
 
 SDKs that can be used to interact with Conflux node(client).
 
+Developer can check their detail info and document in each repository
+
 ## Official SDKs
 
 ### [js-conflux-sdk](https://github.com/conflux-chain/js-conflux-sdk)
