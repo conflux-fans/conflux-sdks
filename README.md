@@ -6,13 +6,9 @@ Developer can check their detail info and document in each repository
 
 ## Official SDKs
 
-### [js-conflux-sdk](https://github.com/conflux-chain/js-conflux-sdk)
+### [js-conflux-sdk](https://github.com/conflux-chain/js-conflux-sdk) (Recommend)
 
-Recommend
-
-### [go-conflux-sdk](https://github.com/conflux-chain/go-conflux-sdk)
-
-Recommend
+### [go-conflux-sdk](https://github.com/conflux-chain/go-conflux-sdk) (Recommend)
 
 ### [java-conflux-sdk](https://github.com/conflux-chain/java-conflux-sdk)
 
